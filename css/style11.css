@@ -1,0 +1,32 @@
+
+.row
+{
+	margin-bottom: 15px;
+}
+#bo{
+	border-bottom: 2px solid black;
+	padding: 20px;
+	padding-top: 5px;
+}
+.container{
+	background-color: silver;
+}
+.box{
+	text-align: right;
+}
+.box a{
+	text-decoration: none;
+	color : gray;
+}
+.box a:hover{
+	text-decoration: underline;;
+	color: red;
+}
+#wrap{
+	font-size: 60px;
+	font-family: cursive;
+	text-align: center;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-shadow: 5px 10px 10px red;
+}
